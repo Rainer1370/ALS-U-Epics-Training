@@ -1,0 +1,5 @@
+record(stringout, "$(IOC):TEST")
+{
+    field(DESC, "Macro test string PV")
+    field(VAL,  "Hello from $(IOC)")
+}

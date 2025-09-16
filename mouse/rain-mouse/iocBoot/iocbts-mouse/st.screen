@@ -1,0 +1,4 @@
+#!/bin/sh
+# cd "/vxboot/mouse/boot/iocBoot/iocbts-mouse"
+exec ./st.cmd
+

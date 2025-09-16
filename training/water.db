@@ -1,0 +1,6 @@
+record(ao, "temperature:water")
+{
+    field(DESC, "Water temperature Setpoint") # Description
+    field( EGU, "degC")                       # Engineering Units
+    field( VAL, "0")                          # Initial Value
+}

@@ -1,0 +1,4 @@
+#!/bin/sh
+# cd "/vxboot/mOuse/boot/iocBoot/iocar05-rain"
+exec ./st.cmd
+

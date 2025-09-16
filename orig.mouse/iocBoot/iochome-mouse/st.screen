@@ -1,0 +1,4 @@
+#!/bin/sh
+# cd "/vxboot/mouse/boot/iocBoot/iochome-mouse"
+exec ./st.cmd
+

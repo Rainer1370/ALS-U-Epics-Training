@@ -1,0 +1,7 @@
+# ALS/ALS-U Site-Specific IOC Template
+
+* Note that `makeBaseApp.pl` picks `st.cmd@Cross` instead of `st.cmd@Common`.
+* `IOCNAME` doesn't exist within `makeBaseApp.pl`
+
+* In case, one would like to run `logrotate` to keep a screen log file maintainable. Please run `logrotate.run`.
+
